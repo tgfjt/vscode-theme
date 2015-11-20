@@ -1,0 +1,21 @@
+{
+	"name": "solarized-own",
+	"description": "solarized-own 2015 Nov",
+	"version": "0.0.1",
+	"publisher": "tgfjt",
+	"engines": {
+		"vscode": "^0.10.1"
+	},
+	"categories": [
+		"Themes"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "Solarized (myown)",
+				"uiTheme": "vs-dark",
+				"path": "./themes/solarized-own.tmTheme"
+			}
+		]
+	}
+}
